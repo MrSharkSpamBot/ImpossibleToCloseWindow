@@ -11,13 +11,13 @@ while True:
 
         # Create the window.
         window = tkinter.Tk()
-        window.title('''''')
-        WINDOW_HEIGHT = ''
-        WINDOW_WIDTH = ''
+        window.title('''WT''')
+        WINDOW_HEIGHT = 'WH'
+        WINDOW_WIDTH = 'WW'
         window.geometry(WINDOW_HEIGHT + 'x' + WINDOW_WIDTH)
 
         # Add the text.
-        TEXT = ''''''
+        TEXT = '''T'''
         hacked_letter = tkinter.Text(window, height=WINDOW_HEIGHT, width=WINDOW_WIDTH)
         hacked_letter.pack()
         hacked_letter.insert(tkinter.END, TEXT)
