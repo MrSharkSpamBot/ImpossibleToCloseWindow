@@ -1,7 +1,6 @@
-#! python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jan 10 13:40:22 2021
+A full fledged payload that opens up an impossible to close window.
 
 @author: Mr. Shark Spam Bot
 """
