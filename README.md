@@ -19,3 +19,8 @@ $ pip3 install -r requirements.txt
 
 ## Usage
 This payload can run on Linux, Windows, and MacOS. To configure this payload go to line 14 and replace WT with the title of the window; to line 15 and replace WH with the height of the window; to line 16 and replace WW with the width of the window; and lastly to line 20 and replace T with the text to be put in the window.
+
+## Compilation
+```
+pyinstaller --onefile --noconsole --icon icon.ico ShadowSharkImpossibleToCloseWindow.py
+```
