@@ -5,15 +5,15 @@ A full fledged payload written in pure python3 that opens up an impossible to cl
 ### Debian
 ```
 $ sudo apt-get install python3 python3-pip python3-tk git
-$ git clone https://github.com/MrSharkSpamBot/ShadowSharkImpossibleToCloseWindow.git
-$ cd ShadowSharkImpossibleToCloseWindow/
+$ git clone https://github.com/MrSharkSpamBot/ImpossibleToCloseWindow.git
+$ cd ImpossibleToCloseWindow/
 $ pip3 install -r requirements.txt
 ```
 ### Arch
 ```
 $ sudo pacman -S python python-pip git tk
 $ git clone https://github.com/MrSharkSpamBot/ShadowSharkImpossibleToCloseWindow.git
-$ cd ShadowSharkImpossibleToCloseWindow/
+$ cd ImpossibleToCloseWindow/
 $ pip3 install -r requirements.txt
 ```
 
@@ -22,5 +22,5 @@ This payload can run on Linux, Windows, and MacOS. To configure this payload go 
 
 ## Compilation
 ```
-pyinstaller --onefile --noconsole --icon icon.ico ShadowSharkImpossibleToCloseWindow.py
+pyinstaller --onefile --noconsole --icon icon.ico ImpossibleToCloseWindow.py
 ```
