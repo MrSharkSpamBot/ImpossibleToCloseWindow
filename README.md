@@ -1,4 +1,4 @@
-# Shadow Shark Impossible To Close Window
+# Impossible To Close Window
 A full fledged payload written in pure python3 that opens up an impossible to close window.
 
 ## Installation
