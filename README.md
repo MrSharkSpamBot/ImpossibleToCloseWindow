@@ -12,7 +12,7 @@ $ pip3 install -r requirements.txt
 ### Arch
 ```
 $ sudo pacman -S python python-pip git tk
-$ git clone https://github.com/MrSharkSpamBot/ShadowSharkImpossibleToCloseWindow.git
+$ git clone https://github.com/MrSharkSpamBot/ImpossibleToCloseWindow.git
 $ cd ImpossibleToCloseWindow/
 $ pip3 install -r requirements.txt
 ```
