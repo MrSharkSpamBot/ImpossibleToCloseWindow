@@ -14,7 +14,7 @@ while True:
         window.title('''WT''')
         WINDOW_HEIGHT = 'WH'
         WINDOW_WIDTH = 'WW'
-        window.geometry(WINDOW_HEIGHT + 'x' + WINDOW_WIDTH)
+        window.geometry(WINDOW_WIDTH + 'x' + WINDOW_HEIGHT)
 
         # Add the text.
         TEXT = '''T'''
